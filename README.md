@@ -32,7 +32,8 @@ A full-stack dashboard that documents, visualizes and tracks a real AWS VPC Peer
 - a **live stats dashboard** that rolls it all up into a completion percentage.
 
 The UI is a dark, AWS-orange **glassmorphism** design built with plain CSS (`backdrop-filter`) — no UI framework.
-Live Demo: (https://cloudlink-aws-vpc-peering-cloud.onrender.com/)
+
+Live Demo: https://cloudlink-aws-vpc-peering-cloud.onrender.com/
 ---
 
 ## 🌐 Network Architecture
